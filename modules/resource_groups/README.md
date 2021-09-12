@@ -6,7 +6,7 @@ data source, and outputs the result in an output variable called `example`.
 
 It also creates 1 or more resource groups in azure.
 
-for more information, see [docs](docs/info)
+for more information, see [docs](/marshyon/simple_terraform_library/tree/main/modules/resource_groups/docs)
 
 Terratest. For a slightly more complicated, real-world example of a Terraform module and the corresponding tests, see
 [terraform-aws-example](/examples/terraform-aws-example).
